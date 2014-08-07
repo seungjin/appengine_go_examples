@@ -1,0 +1,3 @@
+goapp serve $1
+
+
